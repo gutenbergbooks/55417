@@ -41,7 +41,7 @@ Walter Moore for Project Gutenberg Australia
 Transcriber's Note:
      1. Source: This is an emended copy of this book as transcribed by
         Walter Moore for Project Gutenberg Australia.
-        https://gutenberg.org.au/ebooks17/1700341h.html
+        http://gutenberg.net.au/ebooks17/1700341h.html
 
 
 
@@ -3764,7 +3764,7 @@ End of Project Gutenberg's The Gentleman Who Vanished, by Fergus Hume
 
 ***** This file should be named 55417.txt or 55417.zip *****
 This and all associated files of various formats will be found in:
-        https://www.gutenberg.org/5/5/4/1/55417/
+        http://www.gutenberg.org/5/5/4/1/55417/
 
 Produced by Charles Bowen from transcript of provided by
 Walter Moore for Project Gutenberg Australia
